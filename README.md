@@ -1,0 +1,2 @@
+# Titan-Thrust-40KGF-Open-Source-Model-Turbo-Jet-Engine-Repository
+Open-source repository for the 40KGF turbo-jet engine manual, advancing micro-turbine propulsion for RC aircraft and drones. Features kero-start, full autostart with auto-restart, detailed setup, safety guidelines, ECU/GSU operations, and parts diagrams. Empower hobbyists and innovators with accessible, high-thrust (392N) tech. Ethical use only.
