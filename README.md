@@ -1,5 +1,7 @@
 # Redmoon 40KGF Open Source Turbojet Engine 🚀🔥  
 
+![Demo](./DOCS/SKETCHES/redmoon-40kgf-open-source-turbo-jet-engine.png)  
+*Demo Version of Redmoon 40KGF Open Source Turbojet Engine* 
 ![Isometric View](./DOCS/SKETCHES/turbojet_3d_isometric.png)  
 *Isometric sketch of current open-source configuration*  
 
